@@ -11,4 +11,5 @@ HS = H*3600
 MS = M*60
 
 T = HS + MS + S
+
 print(T)
